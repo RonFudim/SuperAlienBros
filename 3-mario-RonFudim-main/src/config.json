@@ -1,0 +1,126 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.png",
+			"width": 320,
+			"height": 320
+		},
+		{
+			"name": "blocks",
+			"path": "./assets/images/blocks.png",
+			"width": 96,
+			"height": 80
+		},
+		{
+			"name": "bushes",
+			"path": "./assets/images/bushes.png",
+			"width": 112,
+			"height": 80
+		},
+		{
+			"name": "coin",
+			"path": "./assets/images/coin.png",
+			"width": 80,
+			"height": 16
+		},
+		{
+			"name": "flagpoles",
+			"path": "./assets/images/flagpoles.png",
+			"width": 144,
+			"height": 64
+		},
+		{
+			"name": "character",
+			"path": "./assets/images/character.png",
+			"width": 176,
+			"height": 20
+		},
+		{
+			"name": "creatures",
+			"path": "./assets/images/creatures.png",
+			"width": 128,
+			"height": 112
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 460,
+			"height": 640
+		},
+		{
+			"name": "toppers",
+			"path": "./assets/images/toppers.png",
+			"width": 480,
+			"height": 1152
+		},
+		{
+			"name": "big-character",
+			"path": "./assets/images/character-big.png",
+			"width": 176,
+			"height": 24
+		},
+		{
+			"name": "power-ups",
+			"path": "./assets/images/power-ups.png",
+			"width": 16,
+			"height": 48
+		}
+	],
+	"fonts": [
+		{
+			"name": "Joystix",
+			"path": "./assets/fonts/Joystix.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "death",
+			"path": "./assets/sounds/death.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "empty-block",
+			"path": "./assets/sounds/empty-block.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "jump",
+			"path": "./assets/sounds/jump.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "kill",
+			"path": "./assets/sounds/kill.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "kill2",
+			"path": "./assets/sounds/kill2.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "music",
+			"path": "./assets/sounds/music.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "pick-up",
+			"path": "./assets/sounds/pick-up.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "reveal",
+			"path": "./assets/sounds/reveal.wav",
+			"size": 5,
+			"volume": 0.1
+		}
+	]
+}
